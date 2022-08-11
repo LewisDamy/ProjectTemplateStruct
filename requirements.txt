@@ -1,0 +1,8 @@
+# libraries
+
+# default
+pytest
+pytest-cov
+pylint
+black
+fire
